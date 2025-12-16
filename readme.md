@@ -11,7 +11,7 @@ Lab URL https://cloudthat.learnondemand.net in the browser
 - Step 3: To verify your account you will receive a verification email to validate your account.
 - Step 4: Open https://testprep.cloudthat.com/course/view.php?id=3976
 - Step 5: Login with your organization account.
-- Step 6: Enter the enrolment key: 5695kYDmR3
+- Step 6: Enter the enrolment key: Shared During the Session
 ----------------------------------------------
 
 ### Please find the MS-Learn for Fabric Data FACTORY
